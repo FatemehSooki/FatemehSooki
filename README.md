@@ -1,35 +1,63 @@
 <h1 align="center">Hi 👋, I'm Fatemeh Sooki</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">Frontend Developer | Coding Enthusiast | Interactive Web Coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatemehsooki&label=Profile%20views&color=0e75b6&style=flat" alt="fatemehsooki" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatemehsooki" alt="fatemehsooki" /></a> </p>
-
-- 🔭 I’m currently working on **learning Front-end**
-
-- 🌱 I’m currently learning **java Script**
-
-- 👯 I’m looking to collaborate on **Startup companies**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/FatemehSooki)
-
-- 💬 Ask me about **Html5, Css3, Bootstrap, Tailwind, JavaScript**
-
-- 📫 How to reach me **fatemeh.sooki9393@gmail.com**
-
-- ⚡ Fun fact **I listen to a lot of true crime podcasts!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/fatemeh-sooki-197060396/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatemeh-sooki" height="30" width="40" /></a>
-<a href="https://www.instagram.com/fatemeh_sooki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatemeh_sooki" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fatemehsooki&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatemehsooki" alt="GitHub Trophy" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatemehsooki&show_icons=true&locale=en&layout=compact" alt="fatemehsooki" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatemehsooki&show_icons=true&locale=en" alt="fatemehsooki" /></p>
+## 🔭 About Me
+I’m a frontend engineer from Iran who loves **problem-solving, coding challenges, and clean, maintainable code**.  
+I enjoy **analyzing complex problems** and translating them into efficient solutions in JavaScript, HTML, and CSS.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatemehsooki&" alt="fatemehsooki" /></p>
+---
+
+## 🌱 Currently Learning
+- Advanced **JavaScript concepts and patterns**  
+- Modular and scalable **front-end architecture**  
+- Solving algorithmic and logical challenges in code
+---
+## 👨‍💻 Projects & Challenges
+- All my projects are on [GitHub](https://github.com/FatemehSooki)  
+- Focused on **interactive simulations, problem-solving exercises, and code-driven challenges**
+
+---
+
+## 💬 Ask Me About
+**HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, DOM manipulation, UX design**
+
+---
+
+## 📫 Contact Me
+- Email: **fatemeh.sooki9393@gmail.com**  
+- LinkedIn: [Fatemeh Sooki](https://www.linkedin.com/in/fatemeh-sooki-197060396/)  
+- Instagram: [@fatemeh_sooki](https://www.instagram.com/fatemeh_sooki/)
+
+---
+
+## ⚡ Fun Fact
+I love **true crime podcasts** and **classical musics** while coding—keeps me curious and focused!  
+
+---
+
+## 🛠 Skills & Tools
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatemehsooki&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatemehsooki&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatemehsooki" alt="Streak Stats" /></p>
